@@ -2,7 +2,7 @@
 
 <img src="http://grodansparadis.com/images/vscp_logo.jpg" />
 
-CAN4VSCP Bluetooth RS-485 bridge
+CAN4VSCP RS-485 bridge
 
 <hr>
 
